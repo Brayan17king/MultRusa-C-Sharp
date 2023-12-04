@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Multiplicacion_Rusa/1.0.0": {
+        "runtime": {
+          "Multiplicacion_Rusa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiplicacion_Rusa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

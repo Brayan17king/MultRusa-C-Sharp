@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Multiplicacion_Rusa\bin\Debug\net8.0\Multiplicacion_Rusa.exe
+C:\Users\user\Desktop\Multiplicacion_Rusa\bin\Debug\net8.0\Multiplicacion_Rusa.deps.json
+C:\Users\user\Desktop\Multiplicacion_Rusa\bin\Debug\net8.0\Multiplicacion_Rusa.runtimeconfig.json
+C:\Users\user\Desktop\Multiplicacion_Rusa\bin\Debug\net8.0\Multiplicacion_Rusa.dll
+C:\Users\user\Desktop\Multiplicacion_Rusa\bin\Debug\net8.0\Multiplicacion_Rusa.pdb
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\Multiplicacion_Rusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\Multiplicacion_Rusa.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\Multiplicacion_Rusa.AssemblyInfo.cs
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\Multiplicacion_Rusa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\Multiplicacion_Rusa.dll
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\refint\Multiplicacion_Rusa.dll
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\Multiplicacion_Rusa.pdb
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\Multiplicacion_Rusa.genruntimeconfig.cache
+C:\Users\user\Desktop\Multiplicacion_Rusa\obj\Debug\net8.0\ref\Multiplicacion_Rusa.dll
